@@ -1,0 +1,15 @@
+{
+    "size": 2,
+    "investments": [
+        {
+            "amount": 200,
+            "name": "BTC",
+            "type": "Crypto"
+        },
+        {
+            "amount": 500,
+            "name": "House",
+            "type": "Real Estate"
+        }
+    ]
+}
